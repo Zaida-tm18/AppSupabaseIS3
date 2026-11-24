@@ -11,3 +11,4 @@ data class Alumno(
     val foto: String? = null,
     val created_at: String? = null
 )
+

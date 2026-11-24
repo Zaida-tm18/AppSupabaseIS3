@@ -10,6 +10,7 @@ object SupabaseErrorHandler {
         MaterialAlertDialogBuilder(context)
             .setTitle("Error de conexión")
             .setMessage(detail)
+            .setIcon(android.R.drawable.ic_dialog_alert)
             .setPositiveButton("Aceptar", null)
             .show()
     }

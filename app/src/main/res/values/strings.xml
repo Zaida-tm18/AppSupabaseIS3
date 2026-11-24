@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">AppSupabaseIS3</string>
+    <string name="app_name" translatable="false">AppSupabaseIS3</string>
+    <string-array name="niveles">
+        <item>Primer Semestre</item>
+        <item>Segundo Semestre</item>
+        <item>Tercer Semestre</item>
+        <item>Cuarto Semestre</item>
+        <item>Quinto Semestre</item>
+        <item>Sexto Semestre</item>
+        <item>Séptimo Semestre</item>
+        <item>Octavo Semestre</item>
+        <item>Noveno Semestre</item>
+        <item>Décimo Semestre</item>
+    </string-array>
 </resources>
