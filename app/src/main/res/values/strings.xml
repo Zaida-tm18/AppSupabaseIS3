@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppSupabaseIS3</string>
+    <string name="hint_lista_alumnos">Lista de alumnos</string>
+    <string name="desc_lista_alumnos">Lista de alumnos registrados</string>
 </resources>
