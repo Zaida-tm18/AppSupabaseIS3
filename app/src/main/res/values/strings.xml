@@ -12,4 +12,8 @@
         <item>Noveno Semestre</item>
         <item>Décimo Semestre</item>
     </string-array>
+    <string name="desc_lista_alumnos">Lista de alumnos</string>
+    <string name="hint_lista_alumnos">Lista de alumnos</string>
+
+
 </resources>

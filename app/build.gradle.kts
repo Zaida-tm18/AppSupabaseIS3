@@ -55,6 +55,7 @@ dependencies {
     implementation("io.github.jan-tennert.supabase:postgrest-kt")
     implementation("io.ktor:ktor-client-android:3.5.0")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.9.2")
+    implementation("com.github.bumptech.glide:glide:5.0.9")
 
     implementation(libs.androidx.activity.ktx)
     implementation(libs.androidx.appcompat)
